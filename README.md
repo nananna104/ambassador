@@ -1,2 +1,2 @@
-# fourth
-네 번째 깃허브 저장소
+# 앰배서더 호텔 그룹 (2022)
+https://nananna104.github.io/ambassador/
